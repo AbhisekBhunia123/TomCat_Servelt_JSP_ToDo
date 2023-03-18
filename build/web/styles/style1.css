@@ -1,0 +1,64 @@
+
+.maincontent{
+    width:800px;
+    height:750px;
+/*    background:rgb(6,85,53);*/
+    
+}
+#heading{
+    font-size:50px;
+    font-weight:bold;
+    font-family:arial;
+    /*color:#fff;*/
+    text-align:center;
+}
+
+.formclass{
+    width:60%;
+    margin:auto;
+}
+
+#task{
+    background:rgba(0,0,0,0.5);
+    outline: none !important;
+    border:none;
+    margin-top:30px;
+    height:40px;
+    color:#fff;
+}
+
+#hr{
+    width:100%;
+    margin:auto;
+    height:4px;
+    /*color:white;*/
+}
+
+.submitBtn{
+    width:40%;
+    /*border-color:#fff !important;*/
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:10px;
+}
+
+
+.taskPara{
+    /*color:white;*/
+    width:75%;
+    height:50px;
+    font-size:20px;
+    background:none;
+    margin-right:2%;
+    outline:none;
+    border:none;
+    
+}
+
+.deleteBtn{
+    width:10%;
+    height:50px;
+}
+
+
+
